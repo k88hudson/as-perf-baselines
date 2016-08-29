@@ -1,5 +1,12 @@
 # Activity Stream Perf Baselines
 
+# Strategy
+
+- Uses monotonic timers on add-on,  (Telemetry.msSinceProcessStart(), window.performance.now)
+- Each test is repeated 3 sets of 100 times
+- Uses mean to account for outliers
+- Output and reproducible tests in  k88hudson/as-perf-baselines 
+
 # Summary
 
 Baseline message passing test:
@@ -30,8 +37,12 @@ Attach frame scripts (global message manager)
 - RESULTS: 49-53ms
 
 React Baseline
-- measures time to first render (i.e. component did mount) for hello world react App
+- measures time to JS load, and to first render (i.e. component did mount) for hello world react App
+- includes CSS loading of our actual css file
 - bundled with webpack on with production configuration settings
 - START: page load (according to window.performance.now)
 - END: componentDidMount has fired
-- RESULTS: 41-43ms, with some noticeable outliers (100-400ms)
+- RESULTS: 60.883 for js load
+- RESULTS: 78.573 for mount
+- apx. 18ms between js load and mount
+- with some noticeable outliers (100-400ms)
