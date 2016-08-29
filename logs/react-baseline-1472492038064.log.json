@@ -1,0 +1,808 @@
+{
+  "medians": {
+    "REACT_FIRST_MOUNT": 76.725,
+    "JS_LOAD": 59.07
+  },
+  "raw": [
+    {
+      "event": "JS_LOAD",
+      "time": 94.22
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 112.24
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 38.025
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 54.97
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 40.29
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 58.03
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 39.715
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 57.155
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 50.735
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 68.145
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 42.76
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 59.395
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 39.83
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 57.49
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 38.89
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 55.3
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 41.22
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 58.02
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 39.195
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 55.675
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 44.475
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 61.15
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 37.51
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 55.375
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 41.11
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 60.655
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 44.055
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 61.37
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 43.48
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 62.96
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 42.61
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 58.91
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 41.21
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 58.33
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 40.855
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 58.775
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 38.84
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 55.345
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 42.195
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 58.2
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 62.9
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 80.145
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 41.23
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 57.905
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 56.89
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 74.63
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 48.39
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 68.13
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 61.41
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 80.31
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 61.315
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 76.945
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 74.26
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 91.58
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 61.095
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 79.265
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 55.16
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 71.805
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 54.335
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 71.57
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 56.6
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 73.97
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 63.58
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 80.94
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 63.46
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 79.235
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 61.19
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 79.19
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 54.335
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 71.91
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 51.055
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 66.985
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 47.925
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 65.095
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 56.535
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 74.255
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 57.64
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 74.98
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 124.33
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 140.38
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 68.03
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 86.05
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 59.99
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 77.895
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 59.18
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 77.11
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 65.035
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 83.415
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 56.915
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 73.695
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 60.775
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 77.745
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 58.515
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 75.49
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 55.56
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 73.45
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 959.77
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 976.185
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 61.13
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 78.545
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 59.315
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 77.535
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 53.485
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 71.205
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 66.78
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 85.305
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 52.37
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 69.15
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 58.26
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 76.155
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 65.08
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 82.97
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 55.665
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 72.775
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 49.205
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 67.845
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 50.83
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 68.42
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 54.235
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 70.56
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 62.87
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 81.435
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 50.765
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 67.835
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 54.915
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 73.75
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 53.57
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 70.65
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 74.71
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 92.23
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 65.905
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 84.5
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 59.615
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 77.515
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 62.48
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 78.8
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 60.45
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 80.065
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 55.51
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 73.98
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 72.26
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 91.435
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 58.14
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 74.365
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 53.41
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 71.54
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 64.32
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 80.335
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 58.48
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 74.74
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 74.54
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 91.375
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 62.055
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 78.78
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 59.78
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 75.875
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 76.83
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 93.645
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 452.58
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 469.125
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 68.32
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 85.22
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 153.665
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 167.975
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 84.93
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 103.955
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 64.35
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 82.795
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 72.555
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 90.99
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 59.66
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 76.505
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 300.625
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 319.425
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 60.96
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 79.77
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 456.445
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 473.41
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 61.925
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 79.575
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 58.96
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 77.145
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 71.96
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 89.56
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 69.005
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 87.235
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 256.18
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 273.255
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 58.465
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 75.185
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 60.06
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 77.79
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 58.71
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 78.42
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 70.19
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 88.75
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 64.84
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 81.565
+    },
+    {
+      "event": "JS_LOAD",
+      "time": 65.61
+    },
+    {
+      "event": "REACT_FIRST_MOUNT",
+      "time": 83.41
+    }
+  ]
+}
