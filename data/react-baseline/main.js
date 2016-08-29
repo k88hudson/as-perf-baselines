@@ -44,14 +44,17 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
+	const events = [];
+	events.push(["JS_LOAD", window.performance.now()]);
 	const React = __webpack_require__(1);
 	const ReactDOM = __webpack_require__(30);
 
 	const App = React.createClass({
 	  componentDidMount() {
 	    const mountTime = window.performance.now();
+	    events.push(["REACT_FIRST_MOUNT", mountTime]);
 	    setTimeout(() => {
-	      window.postMessage(mountTime, "*");
+	      window.postMessage(JSON.stringify(events), "*");
 	    }, 100);
 	  },
 	  render() {

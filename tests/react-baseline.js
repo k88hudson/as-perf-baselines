@@ -11,8 +11,11 @@ module.exports = perf => new Promise((resolve, reject) => {
 
   const {median} = require("lib/math");
   function transformData(raw) {
-    const value = median(raw.map(e => e.time));
-    return {median: value, raw};
+    const medians = {
+      "REACT_FIRST_MOUNT": median(raw.filter(e => e.event === "REACT_FIRST_MOUNT").map(e => e.time)),
+      "JS_LOAD": median(raw.filter(e => e.event === "JS_LOAD").map(e => e.time)),
+    };
+    return {medians, raw};
   }
 
   let count = 0;
@@ -23,7 +26,7 @@ module.exports = perf => new Promise((resolve, reject) => {
     onAttach(worker) {
       worker.port.on("content-message", message => {
         if (count < TOTAL_TESTS) {
-          perf.log("FIRST_RENDER", message);
+          message.forEach(item => perf.log(item[0], item[1]));
           count++;
           tabs.open(REACT_PAGE);
         } else {

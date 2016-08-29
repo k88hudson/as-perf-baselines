@@ -1,3 +1,3 @@
 window.addEventListener("message", m => {
-  self.port.emit("content-message", +m.data);
+  self.port.emit("content-message", JSON.parse(m.data));
 });
