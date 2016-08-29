@@ -1,0 +1,406 @@
+{
+  "historyItems": 5000,
+  "median": 24.3155,
+  "raw": [
+    {
+      "event": "READ",
+      "time": 31.798
+    },
+    {
+      "event": "READ",
+      "time": 32.008
+    },
+    {
+      "event": "READ",
+      "time": 127.468
+    },
+    {
+      "event": "READ",
+      "time": 26.566
+    },
+    {
+      "event": "READ",
+      "time": 25.812
+    },
+    {
+      "event": "READ",
+      "time": 34.851
+    },
+    {
+      "event": "READ",
+      "time": 108.66
+    },
+    {
+      "event": "READ",
+      "time": 22.491
+    },
+    {
+      "event": "READ",
+      "time": 24.121
+    },
+    {
+      "event": "READ",
+      "time": 94.226
+    },
+    {
+      "event": "READ",
+      "time": 25.085
+    },
+    {
+      "event": "READ",
+      "time": 23.266
+    },
+    {
+      "event": "READ",
+      "time": 24.571
+    },
+    {
+      "event": "READ",
+      "time": 106.555
+    },
+    {
+      "event": "READ",
+      "time": 24.76
+    },
+    {
+      "event": "READ",
+      "time": 25.979
+    },
+    {
+      "event": "READ",
+      "time": 89.685
+    },
+    {
+      "event": "READ",
+      "time": 22.276
+    },
+    {
+      "event": "READ",
+      "time": 23.135
+    },
+    {
+      "event": "READ",
+      "time": 24.231
+    },
+    {
+      "event": "READ",
+      "time": 93.705
+    },
+    {
+      "event": "READ",
+      "time": 23.179
+    },
+    {
+      "event": "READ",
+      "time": 23.842
+    },
+    {
+      "event": "READ",
+      "time": 93.991
+    },
+    {
+      "event": "READ",
+      "time": 22.711
+    },
+    {
+      "event": "READ",
+      "time": 25.261
+    },
+    {
+      "event": "READ",
+      "time": 25.092
+    },
+    {
+      "event": "READ",
+      "time": 96.149
+    },
+    {
+      "event": "READ",
+      "time": 23.914
+    },
+    {
+      "event": "READ",
+      "time": 23.119
+    },
+    {
+      "event": "READ",
+      "time": 88.7
+    },
+    {
+      "event": "READ",
+      "time": 22.142
+    },
+    {
+      "event": "READ",
+      "time": 24.069
+    },
+    {
+      "event": "READ",
+      "time": 23.335
+    },
+    {
+      "event": "READ",
+      "time": 95.272
+    },
+    {
+      "event": "READ",
+      "time": 23.88
+    },
+    {
+      "event": "READ",
+      "time": 22.45
+    },
+    {
+      "event": "READ",
+      "time": 88.635
+    },
+    {
+      "event": "READ",
+      "time": 23.681
+    },
+    {
+      "event": "READ",
+      "time": 23.276
+    },
+    {
+      "event": "READ",
+      "time": 22.347
+    },
+    {
+      "event": "READ",
+      "time": 96.439
+    },
+    {
+      "event": "READ",
+      "time": 22.798
+    },
+    {
+      "event": "READ",
+      "time": 23.701
+    },
+    {
+      "event": "READ",
+      "time": 92.324
+    },
+    {
+      "event": "READ",
+      "time": 25.369
+    },
+    {
+      "event": "READ",
+      "time": 22.954
+    },
+    {
+      "event": "READ",
+      "time": 24.758
+    },
+    {
+      "event": "READ",
+      "time": 95.002
+    },
+    {
+      "event": "READ",
+      "time": 22.426
+    },
+    {
+      "event": "READ",
+      "time": 22.175
+    },
+    {
+      "event": "READ",
+      "time": 91.543
+    },
+    {
+      "event": "READ",
+      "time": 24.115
+    },
+    {
+      "event": "READ",
+      "time": 21.489
+    },
+    {
+      "event": "READ",
+      "time": 24.574
+    },
+    {
+      "event": "READ",
+      "time": 96.804
+    },
+    {
+      "event": "READ",
+      "time": 22.198
+    },
+    {
+      "event": "READ",
+      "time": 24.63
+    },
+    {
+      "event": "READ",
+      "time": 90.439
+    },
+    {
+      "event": "READ",
+      "time": 23.179
+    },
+    {
+      "event": "READ",
+      "time": 23.231
+    },
+    {
+      "event": "READ",
+      "time": 25.785
+    },
+    {
+      "event": "READ",
+      "time": 93.717
+    },
+    {
+      "event": "READ",
+      "time": 22.977
+    },
+    {
+      "event": "READ",
+      "time": 25.358
+    },
+    {
+      "event": "READ",
+      "time": 91.007
+    },
+    {
+      "event": "READ",
+      "time": 22.355
+    },
+    {
+      "event": "READ",
+      "time": 23.318
+    },
+    {
+      "event": "READ",
+      "time": 26.541
+    },
+    {
+      "event": "READ",
+      "time": 92.966
+    },
+    {
+      "event": "READ",
+      "time": 23.137
+    },
+    {
+      "event": "READ",
+      "time": 24.4
+    },
+    {
+      "event": "READ",
+      "time": 92.284
+    },
+    {
+      "event": "READ",
+      "time": 23.85
+    },
+    {
+      "event": "READ",
+      "time": 23.592
+    },
+    {
+      "event": "READ",
+      "time": 24.184
+    },
+    {
+      "event": "READ",
+      "time": 91.58
+    },
+    {
+      "event": "READ",
+      "time": 24.104
+    },
+    {
+      "event": "READ",
+      "time": 24.158
+    },
+    {
+      "event": "READ",
+      "time": 89.363
+    },
+    {
+      "event": "READ",
+      "time": 22.705
+    },
+    {
+      "event": "READ",
+      "time": 23.658
+    },
+    {
+      "event": "READ",
+      "time": 24.15
+    },
+    {
+      "event": "READ",
+      "time": 90.629
+    },
+    {
+      "event": "READ",
+      "time": 22.771
+    },
+    {
+      "event": "READ",
+      "time": 23.343
+    },
+    {
+      "event": "READ",
+      "time": 91.874
+    },
+    {
+      "event": "READ",
+      "time": 25.534
+    },
+    {
+      "event": "READ",
+      "time": 23.528
+    },
+    {
+      "event": "READ",
+      "time": 22.782
+    },
+    {
+      "event": "READ",
+      "time": 94.121
+    },
+    {
+      "event": "READ",
+      "time": 24.748
+    },
+    {
+      "event": "READ",
+      "time": 23.483
+    },
+    {
+      "event": "READ",
+      "time": 90.675
+    },
+    {
+      "event": "READ",
+      "time": 23.187
+    },
+    {
+      "event": "READ",
+      "time": 26.705
+    },
+    {
+      "event": "READ",
+      "time": 22.886
+    },
+    {
+      "event": "READ",
+      "time": 93.028
+    },
+    {
+      "event": "READ",
+      "time": 23.481
+    },
+    {
+      "event": "READ",
+      "time": 22.569
+    }
+  ]
+}

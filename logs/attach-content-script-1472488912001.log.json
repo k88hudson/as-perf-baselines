@@ -1,0 +1,409 @@
+{
+  "median": 29.48,
+  "raw": [
+    {
+      "event": "LOADED",
+      "time": 69.445
+    },
+    {
+      "event": "LOADED",
+      "time": 26.595
+    },
+    {
+      "event": "LOADED",
+      "time": 31.91
+    },
+    {
+      "event": "LOADED",
+      "time": 28.08
+    },
+    {
+      "event": "LOADED",
+      "time": 20.28
+    },
+    {
+      "event": "LOADED",
+      "time": 25.565
+    },
+    {
+      "event": "LOADED",
+      "time": 30.49
+    },
+    {
+      "event": "LOADED",
+      "time": 19.5
+    },
+    {
+      "event": "LOADED",
+      "time": 22.11
+    },
+    {
+      "event": "LOADED",
+      "time": 27.175
+    },
+    {
+      "event": "LOADED",
+      "time": 34.44
+    },
+    {
+      "event": "LOADED",
+      "time": 19.22
+    },
+    {
+      "event": "LOADED",
+      "time": 24.875
+    },
+    {
+      "event": "LOADED",
+      "time": 16.81
+    },
+    {
+      "event": "LOADED",
+      "time": 17.6
+    },
+    {
+      "event": "LOADED",
+      "time": 28.94
+    },
+    {
+      "event": "LOADED",
+      "time": 21.05
+    },
+    {
+      "event": "LOADED",
+      "time": 17.78
+    },
+    {
+      "event": "LOADED",
+      "time": 48.245
+    },
+    {
+      "event": "LOADED",
+      "time": 86.915
+    },
+    {
+      "event": "LOADED",
+      "time": 24.595
+    },
+    {
+      "event": "LOADED",
+      "time": 28.49
+    },
+    {
+      "event": "LOADED",
+      "time": 32.84
+    },
+    {
+      "event": "LOADED",
+      "time": 25.54
+    },
+    {
+      "event": "LOADED",
+      "time": 29.42
+    },
+    {
+      "event": "LOADED",
+      "time": 45.875
+    },
+    {
+      "event": "LOADED",
+      "time": 21.795
+    },
+    {
+      "event": "LOADED",
+      "time": 28.345
+    },
+    {
+      "event": "LOADED",
+      "time": 22.41
+    },
+    {
+      "event": "LOADED",
+      "time": 32.825
+    },
+    {
+      "event": "LOADED",
+      "time": 35.695
+    },
+    {
+      "event": "LOADED",
+      "time": 32.51
+    },
+    {
+      "event": "LOADED",
+      "time": 26.63
+    },
+    {
+      "event": "LOADED",
+      "time": 24.865
+    },
+    {
+      "event": "LOADED",
+      "time": 26.545
+    },
+    {
+      "event": "LOADED",
+      "time": 21.245
+    },
+    {
+      "event": "LOADED",
+      "time": 21.895
+    },
+    {
+      "event": "LOADED",
+      "time": 21.88
+    },
+    {
+      "event": "LOADED",
+      "time": 27.29
+    },
+    {
+      "event": "LOADED",
+      "time": 24.12
+    },
+    {
+      "event": "LOADED",
+      "time": 20.885
+    },
+    {
+      "event": "LOADED",
+      "time": 29.015
+    },
+    {
+      "event": "LOADED",
+      "time": 25.26
+    },
+    {
+      "event": "LOADED",
+      "time": 31.775
+    },
+    {
+      "event": "LOADED",
+      "time": 27.3
+    },
+    {
+      "event": "LOADED",
+      "time": 22.7
+    },
+    {
+      "event": "LOADED",
+      "time": 22.395
+    },
+    {
+      "event": "LOADED",
+      "time": 24.235
+    },
+    {
+      "event": "LOADED",
+      "time": 27.125
+    },
+    {
+      "event": "LOADED",
+      "time": 30.075
+    },
+    {
+      "event": "LOADED",
+      "time": 25.13
+    },
+    {
+      "event": "LOADED",
+      "time": 22.965
+    },
+    {
+      "event": "LOADED",
+      "time": 22.735
+    },
+    {
+      "event": "LOADED",
+      "time": 24.055
+    },
+    {
+      "event": "LOADED",
+      "time": 26.6
+    },
+    {
+      "event": "LOADED",
+      "time": 33.055
+    },
+    {
+      "event": "LOADED",
+      "time": 29.715
+    },
+    {
+      "event": "LOADED",
+      "time": 31.55
+    },
+    {
+      "event": "LOADED",
+      "time": 28.925
+    },
+    {
+      "event": "LOADED",
+      "time": 46.67
+    },
+    {
+      "event": "LOADED",
+      "time": 29.57
+    },
+    {
+      "event": "LOADED",
+      "time": 41.345
+    },
+    {
+      "event": "LOADED",
+      "time": 28.27
+    },
+    {
+      "event": "LOADED",
+      "time": 31.885
+    },
+    {
+      "event": "LOADED",
+      "time": 31.375
+    },
+    {
+      "event": "LOADED",
+      "time": 30.765
+    },
+    {
+      "event": "LOADED",
+      "time": 31.27
+    },
+    {
+      "event": "LOADED",
+      "time": 27.27
+    },
+    {
+      "event": "LOADED",
+      "time": 31.93
+    },
+    {
+      "event": "LOADED",
+      "time": 37.48
+    },
+    {
+      "event": "LOADED",
+      "time": 23.09
+    },
+    {
+      "event": "LOADED",
+      "time": 27.065
+    },
+    {
+      "event": "LOADED",
+      "time": 31.7
+    },
+    {
+      "event": "LOADED",
+      "time": 30.78
+    },
+    {
+      "event": "LOADED",
+      "time": 46.515
+    },
+    {
+      "event": "LOADED",
+      "time": 33.21
+    },
+    {
+      "event": "LOADED",
+      "time": 29.645
+    },
+    {
+      "event": "LOADED",
+      "time": 29.48
+    },
+    {
+      "event": "LOADED",
+      "time": 32.12
+    },
+    {
+      "event": "LOADED",
+      "time": 33.25
+    },
+    {
+      "event": "LOADED",
+      "time": 30.425
+    },
+    {
+      "event": "LOADED",
+      "time": 29.145
+    },
+    {
+      "event": "LOADED",
+      "time": 29.275
+    },
+    {
+      "event": "LOADED",
+      "time": 35.565
+    },
+    {
+      "event": "LOADED",
+      "time": 28.795
+    },
+    {
+      "event": "LOADED",
+      "time": 32.135
+    },
+    {
+      "event": "LOADED",
+      "time": 32.175
+    },
+    {
+      "event": "LOADED",
+      "time": 37.72
+    },
+    {
+      "event": "LOADED",
+      "time": 38.62
+    },
+    {
+      "event": "LOADED",
+      "time": 30.24
+    },
+    {
+      "event": "LOADED",
+      "time": 30.745
+    },
+    {
+      "event": "LOADED",
+      "time": 41.12
+    },
+    {
+      "event": "LOADED",
+      "time": 30.83
+    },
+    {
+      "event": "LOADED",
+      "time": 33.57
+    },
+    {
+      "event": "LOADED",
+      "time": 33.795
+    },
+    {
+      "event": "LOADED",
+      "time": 34.745
+    },
+    {
+      "event": "LOADED",
+      "time": 41.21
+    },
+    {
+      "event": "LOADED",
+      "time": 31.39
+    },
+    {
+      "event": "LOADED",
+      "time": 37.735
+    },
+    {
+      "event": "LOADED",
+      "time": 32.32
+    },
+    {
+      "event": "LOADED",
+      "time": 41.58
+    }
+  ]
+}
