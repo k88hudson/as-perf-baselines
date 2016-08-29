@@ -5,7 +5,7 @@
 - Uses monotonic timers on add-on,  (Telemetry.msSinceProcessStart(), window.performance.now)
 - Each test is repeated 3 sets of 100 times
 - Uses mean to account for outliers
-- Output and reproducible tests in  k88hudson/as-perf-baselines 
+- Output and reproducible tests in k88hudson/as-perf-baselines
 
 # Summary
 
