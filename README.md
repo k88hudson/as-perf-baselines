@@ -1,6 +1,35 @@
 # Activity Stream Perf Baselines
 
-# Strategy
+# Our current Performance metrics:
+- uses Date.now()
+- TAB_OPEN is logged as on an 'open' event provided by sdk/tabs
+- "NEWTAB_RENDER" is logged AFTER it is received on add-on side, triggered by the following conditions:
+	- componentWillReceiveProps of NewTab, TopSites.init && History.init && Spotlight.init && Experiments.init && WeightedHighlights.init
+
+
+# Factors affecting performance
+- hardware
+- history, bookmarks size
+- OS? (look at metrics)
+- FF version?
+- number of tabs?
+- state of browser during test (dev tools open, etc.)
+- dev v.s. production build
+- perf tools themselves
+- which timer used
+- message passing delay
+
+# Baselines needed
+- Router
+- Addon load time (empty addon)
+- Tab open time
+- Message round-trip DONE
+- Query from places/metadata
+- Simple storage access DONE
+- Time to first render for empty react app
+- Attaching page mod content script vs framescipt DONE
+
+# Test Methodology
 
 - Uses monotonic timers on add-on,  (Telemetry.msSinceProcessStart(), window.performance.now)
 - Each test is repeated 3 sets of 100 times
